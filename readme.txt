@@ -1,7 +1,10 @@
-This project requires XAMPP, more specifically Apache and MySQL services running to work.
+This project requires:
+	- Node.js
+	- XAMPP, more specifically Apache and MySQL services running to work
 
 To start the project, simply
 	- open up 'app' directory
+	- open command terminal and enter 'node server.js' and wait to connect to mongoDB
 	- open 'front-end.html'
 
 
